@@ -9,11 +9,11 @@ I am a **Data Scientist and Software Engineer** passionate about designing scala
 ---
 
 ### 🧰 What I Do
-- **Data Science & ML**: Python, R, Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, NLP, LLMs  
-- **Data Engineering & BI**: SQL (PostgreSQL, MySQL, SQL Server, MongoDB), ETL, Power BI, Tableau, VBA  
-- **Backend Development**: FastAPI, Flask, Django, REST APIs, Microservices  
-- **Frontend & Full Stack**: React, Node.js, Express.js, Bootstrap, HTML, CSS, JavaScript  
-- **Cloud & DevOps**: AWS (EC2, S3, Lambda, Redshift), Azure (Synapse, Blob Storage), Docker, Kubernetes, Jenkins  
+🧠 **Data Science & ML**: Python, R, Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, NLP, LLMs  
+📊 **Data Engineering & BI**: SQL (PostgreSQL, MySQL, SQL Server, MongoDB), ETL, Power BI, Tableau, VBA  
+⚙️ **Backend Development**: FastAPI, Flask, Django, REST APIs, Microservices  
+🎨 **Frontend & Full Stack**: React, Node.js, Express.js, Bootstrap, HTML, CSS, JavaScript  
+☁️ **Cloud & DevOps**: AWS (EC2, S3, Lambda, Redshift), Azure (Synapse, Blob Storage), Docker, Kubernetes, Jenkins  
 
 ---
 
