@@ -51,9 +51,9 @@ I am a **Data Scientist and Software Engineer** passionate about designing scala
 ---
 
 ### 📫 Let’s Connect
-- Email: [shivanineedugunde@gmail.com](mailto:shivanineedugunde@gmail.com)  
-- LinkedIn: [linkedin.com/in/shivanin7](https://www.linkedin.com/in/shivanin7)  
-- GitHub: [github.com/shivanineedugunde](https://github.com/shivanineedugunde)  
+📧 Email: [shivanineedugunde@gmail.com](mailto:shivanineedugunde@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/shivanin7](https://www.linkedin.com/in/shivanin7)  
+🖥️ GitHub: [github.com/shivanineedugunde](https://github.com/shivanineedugunde)  
 
 ---
 
